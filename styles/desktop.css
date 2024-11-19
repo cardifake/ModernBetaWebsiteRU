@@ -175,11 +175,11 @@ header
 {
 	display: block;
 	position: absolute;
-	top: 368px;
+	top: 333.5px;
 	left: 50%;
-	transform: translateX(-50%);
-	height: 181px;
-	width: 362px;
+	transform: translateX(-50%) scale(0.725);
+	height: 250px;
+	width: 500px;
 }
 
 #header-world

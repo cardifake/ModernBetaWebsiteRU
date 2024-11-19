@@ -19,9 +19,10 @@ header
 
 #trailer
 {
-	top: 292px;
-	height: 145px;
-	width: 288px;
+	top: 265px;
+	height: 200px;
+	width: 400px;
+	transform: translateX(-50%) scale(0.722);
 }
 
 
