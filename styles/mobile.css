@@ -192,6 +192,9 @@ footer
 	border-left: 2px solid black;
 	box-shadow: var(--perspectiveBoxShadow);
 	z-index: 9;
+	max-height: 100vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
 #mobile-nav-dropdown a
