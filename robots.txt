@@ -3,8 +3,9 @@ Disallow: /fonts/
 Disallow: /scripts/
 Disallow: /styles/
 Disallow: /images/icons/
-Allow: /images/favicon.ico
+Allow: /images/icons/favicon.ico
 Disallow: /images/socials/
 Disallow: /images/backgrounds/
+Disallow: /images/minecraft/
 
 Sitemap: https://modernbeta.org/sitemap.xml
